@@ -1,0 +1,35 @@
+﻿Proyecto Buscaminas
+
+Realizado por: Miguel Angel Rebato Valero y Ismael Fernandez del Alamo
+
+
+1-Definición del Objetivo y el Problema
+
+El propósito del juego es probar nuestras habilidades de programación volcadas en un proyecto pequeño y entretener rápido y fácil. En cuanto al problema que resuelve este juego es la falta de tiempo de muchas personas de jugar a juegos que son más complejos en cierta medida que el buscaminas en los que el usuario no quiere invertir más tiempo del que necesitaría.
+
+Este juego se desplegaría en móviles facilitando el acceso fácil y rápido a la aplicación.
+
+
+2-Investigación y análisis
+
+El público objetivo que queremos abarcar o al que podría interesar el juego es a personas que no tengan mucho tiempo para jugar a juegos y que busquen un juego fácil de entender y rápido de jugar como es el buscaminas, que , aunque no es fácil de completar, la mayoría de personas sabe cual es el objetivo que es descubrir todas las minas.
+
+
+
+Revisar juegos similares → analizar interfaz, dificultad, puntos fuertes y débiles.
+3. Determinar el valor diferencial (diseño minimalista, niveles personalizables,
+animaciones o logros)
+4. Extraer una lista de requisitos básicos (ejemplo: tablero, minas, cronómetro) y
+extras opcionales (ejemplo: logros).
+3. Definir funcionalidades y requerimientos
+Pasos:
+1. Funcionalidades mínimas.
+2. Requerimientos no funcionales.
+3. Extras futuros (opcional).
+4. Diseño de la experiencia de usuario (UX)
+Pasos:
+1. Mapear recorrido del usuario (Qué ha de hacer el usuario para jugar una partida)
+2. Diseñar flujo de navegación (Mapa completo de navegación)
+3. Crear wireframes (bocetos de pantallas):
+4. Validar con un prototipo rápido antes de pasar al diseño visual (UI)
+
