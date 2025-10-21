@@ -14,22 +14,20 @@ Este juego se desplegaría en móviles facilitando el acceso fácil y rápido a 
 
 El público objetivo que queremos abarcar o al que podría interesar el juego es a personas que no tengan mucho tiempo para jugar a juegos y que busquen un juego fácil de entender y rápido de jugar como es el buscaminas, que , aunque no es fácil de completar, la mayoría de personas sabe cual es el objetivo que es descubrir todas las minas.
 
+En cuanto a juegos que sean similares tenemos los que son iguales al buscaminas pero con ligeras modificaciones de estilo o dificultad , por lo que en ese sentido diferenciarse de los demás es complicado en cierto sentido.
+El juego tendra un diseño minimalista y sencillo además de niveles de dificultad lo que no es muy diferencial ya que muchos tienen estas características pero nos ceñimos a las capacidades que tenemos para hacer la aplicación
 
+Abordando los requisitos básicos, la aplicación tendra tablero de botones, las minas que se irán descubriendo y el número de cuantas banderas se ponen, cronómetro, y puntuación. Como requisitos opcional el único que tendriamos sería la dificultad ya que podría ser
+estandar, pero tendra tres niveles de dificultad. 
 
-Revisar juegos similares → analizar interfaz, dificultad, puntos fuertes y débiles.
-3. Determinar el valor diferencial (diseño minimalista, niveles personalizables,
-animaciones o logros)
-4. Extraer una lista de requisitos básicos (ejemplo: tablero, minas, cronómetro) y
-extras opcionales (ejemplo: logros).
 3. Definir funcionalidades y requerimientos
-Pasos:
-1. Funcionalidades mínimas.
-2. Requerimientos no funcionales.
-3. Extras futuros (opcional).
-4. Diseño de la experiencia de usuario (UX)
-Pasos:
-1. Mapear recorrido del usuario (Qué ha de hacer el usuario para jugar una partida)
-2. Diseñar flujo de navegación (Mapa completo de navegación)
-3. Crear wireframes (bocetos de pantallas):
-4. Validar con un prototipo rápido antes de pasar al diseño visual (UI)
+
+Las funcionalidades de esta aplicación mínimas son muy claras y son las siguientes; creación de partidas y continuación de el estado de una ya comenzada, para que el usuario pueda crear y continuar partidas; altgorimos de localización de bombas, para el descubrimiento de celdas, de bombas al final del juego,
+y al perder por tocar una mina; y por último el buen funcionamiento de la interfaz y eventos, para que el usuario pueda colocar banderas, minas y numeros de proximidad de las minas. 
+
+Como requisitos no funcionales tenemos los siguientes; rendimiento, que la aplicación tenga unos buenos tiempos de respuesta; usabilidad, que la interfaz sea clara y concisa para el usuario; y por último
+consumo de recursos, que no consuma muchos recursos del dispositivo por malas practicas de rendimiento.
+
+Por último definiremos la experiencia de usuario mapeando el recorrido del usuario por la aplicación. El recorrido estandar del usuario sería entrar a la aplicación, empezar partida, jugar su partida, perder la partida y volver a empezar o salirse de la apicación y continuar la partida.
+
 
